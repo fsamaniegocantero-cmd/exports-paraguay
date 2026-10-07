@@ -33,5 +33,5 @@ This project analyzes 30 years of Paraguay's exports using data from the Central
 
 ## Author
 
-Facundo Samaniego · Agronomist | Data Analysis · [LinkedIn](www.linkedin.com/in/facundo-josé-samaniego-cantero-922a65245)
+Facundo Samaniego · Agronomist | Data Analysis · [LinkedIn](https://www.linkedin.com/in/facundo-josé-samaniego-cantero-922a65245)
 
