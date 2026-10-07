@@ -2,7 +2,7 @@
 
 This project analyzes 30 years of Paraguay's exports using data from the Central Bank of Paraguay (BCP). I cleaned the data with Power Query, explored it with SQL (SQLite), and built an interactive dashboard in Power BI to answer three questions: which products drive exports, how they have grown, and where they go.
 
-📄 **Full write-up (Spanish):** [Una historia de crecimiento: 30 años de exportaciones paraguayas]((https://mydatafolio.com/p/facundo-jos-samaniego-cantero/una-historia-de-desarrollo-30-a-os-de-exportaciones-del-paraguay))
+📄 **Full write-up (Spanish):** [Una historia de crecimiento](https://mydatafolio.com/p/facundo-jos-samaniego-cantero/una-historia-de-desarrollo-30-a-os-de-exportaciones-del-paraguay)
 
 ## Tools
 
